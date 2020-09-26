@@ -22,4 +22,12 @@ function generateCat(){
 
 
 // chanllenge 3: Rock, papper and scissor
+function rpsGame(yourChoice) {
+    var humanChoice, botChoice;
+    // humanChoice = yourChoice.id; 
+    // botChoice
+    // results = decideWinner(humanChoice, botChoice); //[0, 1] human lost | bot won. versa
+    // message = finalMessage(results); // {'message': you won', 'color':'green' }
+    rpsFrontEnd(yourChoice.id, botChoice, message);
+}
  
