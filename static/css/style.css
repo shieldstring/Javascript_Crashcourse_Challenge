@@ -17,6 +17,7 @@
 .flex-blackjack-row-1, .flex-blackjack-row-2{
     background: url('../images/greenbg.jpeg') center;
     color: #ffffff;
+    flex-wrap: wrap;
 }
 
 .flex-blackjack-row-1 div{
